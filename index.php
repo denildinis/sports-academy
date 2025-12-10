@@ -12,7 +12,7 @@
     <img src="./frontend/assets/images/logo.svg" alt="logo" class="logo" />
     <h1>Seu talento merece estar aqui!</h1>
 
-    <form onsubmit="cadastrarJogador(event)">
+    <form>
       <div class="field">
         <div class="icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 24 24">
